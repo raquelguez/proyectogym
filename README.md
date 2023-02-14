@@ -1,3 +1,32 @@
+# PÁGINA "FITNESS"
+![](https://i.pinimg.com/originals/be/16/c2/be16c29a7ce2be4552c07e2bf6923540.png)
+
+Proyecto para informar sobre ejercicios para mantenerte en forma.
+
+## Características
+- Mock-up de la página.
+- Dominio de JS, HTML y CSS como base para el desarrollo de un framework: REACT.
+- Uso de Material UI.
+- Fetch Data de distintas APIs a la vez.
+- Aplicación de React con distintos componentes que se muestran en función de la ruta a la que vaya el usuario.
+- Página responsiva.
+
+## Tecnologías usadas
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+## 🚀 Raquel Rodríguez Sebastián
+
+Me llamo Raquel y estoy empezando en el mundo del desarrollo web. Hice un bootcamp intensivo de Javascript y este fue parte de mi desarrollo en React. 
+
+### 💌 Contacto
+Si quieres seguir mi progreso sígueme en mis Redes Sociales:
+
+[![github](https://img.shields.io/static/v1?label=&message=github&color=171515&logo=github&logoColor=white&style=for-the-badge)](https://github.com/raquelguez)
+[![linkedin](https://img.shields.io/static/v1?label=&message=linkedin&color=0e76a8&logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/raquelrodríguezsebastián/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
