@@ -1,4 +1,4 @@
-# PÁGINA "FITNESS"
+# PÁGINA FITNESS
 ![](https://i.pinimg.com/originals/be/16/c2/be16c29a7ce2be4552c07e2bf6923540.png)
 
 Proyecto para informar sobre ejercicios para mantenerte en forma.
@@ -16,6 +16,7 @@ Proyecto para informar sobre ejercicios para mantenerte en forma.
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![MATERIALUI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 
 ## 🚀 Raquel Rodríguez Sebastián
 
